@@ -1,0 +1,10 @@
+name: CartelNameFix
+main: com.cartel.namefix.Core
+version: '1.0'
+authors: [Cartel]
+api-version: '1.18'
+load: STARTUP
+description: It prevents bugs and authorization errors made through authorized names.
+commands:
+  cartelnamefix:
+    description: Basic command for Cartel Name Fix

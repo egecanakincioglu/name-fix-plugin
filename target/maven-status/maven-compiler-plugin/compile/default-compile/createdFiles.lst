@@ -1,0 +1,8 @@
+com/cartel/namefix/Core.class
+com/cartel/namefix/mysql/SQLite.class
+com/cartel/namefix/engine/SystemConfig.class
+com/cartel/namefix/engine/PlayerListener$1.class
+com/cartel/namefix/mysql/Database.class
+com/cartel/namefix/engine/CommandTrigger.class
+com/cartel/namefix/mysql/SQLiteManager.class
+com/cartel/namefix/engine/PlayerListener.class
