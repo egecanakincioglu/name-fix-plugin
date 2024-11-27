@@ -1,4 +1,4 @@
-# 💡 CartelNameFix Java Minecraft Plugin
+# 💡 NameFix Java Minecraft Plugin
 
 ## 🛠️ What Does This Plugin Do?
 
